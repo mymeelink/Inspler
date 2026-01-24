@@ -1232,13 +1232,13 @@
                               message: $("#form_message").val(),
                             }),
                             success: function (res) {
-                              $(".messages").html(
+                              $("#contact-form .messages").html(
                                 `<div class="alert alert-success">${res.message}</div>`,
                               );
                               $("#contact-form")[0].reset();
                             },
                             error: function () {
-                              $(".messages").html(
+                              $("#contact-form .messages").html(
                                 `<div class="alert alert-danger">Something went wrong</div>`,
                               );
                             },
