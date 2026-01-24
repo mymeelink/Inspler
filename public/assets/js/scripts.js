@@ -1,14 +1,3 @@
-/*-----------------------------------------------------------------------------------
-
-    Theme Name: Mivon
-    Theme URI: http://
-    Description: Creative Agency & Portfolio
-    Author: UI-ThemeZ
-    Author URI: http://themeforest.net/user/UI-ThemeZ
-    Version: 1.0
-
------------------------------------------------------------------------------------*/
-
 
 $(function () {
 
